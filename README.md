@@ -6,4 +6,4 @@
 - 😄 Pronouns: Any pronouns
 - ⚡ Fun fact: I'm a fan of video games but decided to be a software developer.
 
-[![Volnetiks's github stats](https://github-readme-stats.vercel.app/api?username=volnetiks&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Volnetiks's github stats](https://github-readme-stats.vercel.app/api?username=volnetiks&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
