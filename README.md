@@ -1,4 +1,5 @@
-<img align="right" alt="GIF" width="200" height="200" src="https://media1.tenor.com/images/0dae54a91ebefe6dcd0dd2250ffb4aa7/tenor.gif" />
+<img align="top" alt="GIF" width="200" height="200" src="https://media1.tenor.com/images/0dae54a91ebefe6dcd0dd2250ffb4aa7/tenor.gif" />
+
 - 🔭 I’m currently working on a chat application with Flutter and some little projects
 - 🌱 I’m currently learning how to use Flutter at his best
 - 👯 I’m looking to collaborate on flutter applications and any projects where I can give some help!
