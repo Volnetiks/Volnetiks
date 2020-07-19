@@ -4,6 +4,6 @@
 - 💬 Ask me about anything! I love to learn new things
 - 📫 How to reach me: [email](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=volnetiks@gmail.com&tf=1)
 - 😄 Pronouns: Any pronouns
-- ⚡ Fun fact: I'm a fan of video games but decided to be a software developer.
+- ⚡ Fun fact: I started learning things about network at 3/4, with my dad.
 
 [![Volnetiks's github stats](https://github-readme-stats.vercel.app/api?username=volnetiks&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
