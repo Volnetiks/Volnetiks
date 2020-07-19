@@ -6,11 +6,10 @@ Clémentine - Volnetiks
 Software Developer
 <br>
 <br>
-<img src="https://cdn.discordapp.com/emojis/640017915424407577.png?v=1" width="17" height="17"/> I'm Volnetiks (Clémentine), a **freelance and software developer**. I'm also a huge fan of machine learning, video games, and animes!
+<img src="https://cdn.discordapp.com/emojis/640017915424407577.png?v=1" width="20" height="20"/> I'm Volnetiks (Clémentine), a **freelance and software developer**. I'm also a huge fan of machine learning, video games, and animes!
 
 <br>
-<img src="https://cdn.discordapp.com/emojis/430117540107386890.png?v=1" width="17" height="17"/>
-Known and studying languages:
+<img src="https://cdn.discordapp.com/emojis/430117540107386890.png?v=1" width="20" height="20"/> Known and studying languages:
 <br>
 <span align="left">
   <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
