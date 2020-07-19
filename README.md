@@ -10,7 +10,6 @@ Software Developer
 
 <br>
 <img src="https://cdn.discordapp.com/emojis/430117540107386890.png?v=1" width="20" height="20"/> Known and studying languages:
-<br>
 <span align="left">
   <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
   <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
