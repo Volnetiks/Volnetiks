@@ -1,6 +1,5 @@
 <img align="right" alt="GIF" width="125" height="125" src="https://media1.tenor.com/images/0dae54a91ebefe6dcd0dd2250ffb4aa7/tenor.gif" />
-
-<br><br>
+<br>
 Clémentine - Volnetiks
 <br>
 Software Developer
