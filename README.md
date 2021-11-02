@@ -38,5 +38,22 @@ Contacts:
   
 <br>
 <br>
+  
+```CATching bugs in code...
+                              
+       \`*-.    [me]              
+        )  _`-.                 
+       .  : `. .                
+       : _   '  \               
+       ; *` _.   `*-._          
+       `-.-'          `-.       
+         ;       `       `.     
+         :.       .        \    
+         . \  .   :   .-'   .   
+         '  `+.;  ;  '      :   
+         :  '  |    ;       ;-. 
+         ; '   : :`-:     _.`* ;
+[bug] .*' /  .*' ; .*`- +'  `*' 
+      `*-*   `*-*  `*-*'```
 
 [![Volnetiks's github stats](https://github-readme-stats.vercel.app/api?username=volnetiks&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
