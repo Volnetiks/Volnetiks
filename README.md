@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying AI Engineering and working as a Freelancer in Mobile and AI
+I'm a 19 years old student currently studying AI Engineering and working as a Freelancer in Mobile and AI. I have been programming for about 10 years now. I experience with new technologies, from transformers to frameworks. I now focus on AI Technologies and Mobile Apps, aiming at combining both worlds.
 
 
 ## 🌐 Socials:
